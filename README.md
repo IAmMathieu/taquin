@@ -75,6 +75,8 @@ J'ai utilisé NextJS pour faire ce projet en React
 Pour installer et lancer le projet:
 
 > npm i
+
+
 > npm run dev
 
 ### Reste à faire:
