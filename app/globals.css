@@ -1,0 +1,16 @@
+:root {
+  --size: 100px;
+  --tile: #342956;
+  --correct: #6e50b4;
+}
+*, ::before, ::after {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+html,
+body {
+  background: #64bdb0;
+  margin: 0;
+  padding: 0;
+}

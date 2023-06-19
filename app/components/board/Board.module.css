@@ -1,0 +1,14 @@
+.game {
+  width: calc(20px + (4 * var(--size)));
+  margin: 10rem auto;
+}
+.board {
+  display: grid;
+  grid-template-columns: repeat(4, var(--size));
+  grid-template-rows: repeat(4, var(--size));
+  border-radius: 10px;
+  position: relative;
+
+  overflow: hidden;
+  border: 10px solid #55ab9f;
+}
